@@ -1,0 +1,5 @@
+[
+    {"id": "1", "name": "fast scan", "flags": "-T4 -F"},
+    {"id": "2", "name": "full scan", "flags": "-p- -sV"},
+    {"id": "3", "name": "flag scan", "flags": "-O"}
+]
